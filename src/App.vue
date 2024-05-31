@@ -141,10 +141,11 @@ export default {
 <style scoped>
 .list-article-container {
   width: 1000px;
-  margin: auto;
+  margin: 5rem auto;
   padding: 20px;
   background-color: #917fb3;
   border-radius: 7px;
+  
 }
 
 h2 {
@@ -258,10 +259,9 @@ button {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.4rem 7%;
+  padding: 0.8rem 7%;
   background-color: #755ba5;
   position: fixed;
-
   top: 0;
   left: 0;
   right: 0;
@@ -269,7 +269,7 @@ button {
 }
 
 .navbar .navbar-logo {
-  font-size: 2rem;
+  font-size: 1.7rem;
   color: #fff;
 }
 
